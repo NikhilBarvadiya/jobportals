@@ -1,0 +1,36 @@
+class AppText {
+  static const String enterMobileNumber = "Enter mobile number";
+  static const String loginDescription = "Please verify your phone number before continuing, we'll send a verification code to this number.";
+  static const String permissionTitle = "Job Portals";
+  static const String permissionNeed = "App need to access";
+  static const String allow = "Allow";
+  static const String noThanks = "No, Thanks";
+  static const String welcome = "Welcome";
+  static const String btn = "Continue";
+  static const String mobileHint = "Mobile number";
+  static const String mobileValidation = "Please enter a mobile number!";
+  static const String passwordValidation = "Please enter a correct password!";
+  static const String signUp = "Sign up";
+  static const String signUpNote = "Want to be a partner?";
+  static const String verification = "Verification";
+  static const String otpNote = "The 4 digit code has been sent to your";
+  static const String otpHint = "Enter code";
+  static const String otpNeed = "Didn't get code?";
+  static const String resend = "Resend";
+  static const String createAccount = "Create your account";
+  static const String createAllValidation = "All fields are mandatory";
+  static const String personalInformation = "Personal Information";
+  static const String name = "Name";
+  static const String nameValidation = "Your name is required!";
+  static const String vehicleHint = "Vehicle number";
+  static const String vehicleNumberValidation = "Please enter a vehicle number!";
+  static const String documents = "Documents";
+  static const String profile = "Profile";
+  static const String vehicle = "Vehicle";
+  static const String aadhaarFont = "Aadhaar card front-side";
+  static const String aadhaarBack = "Aadhaar card back-side";
+  static const String drivingLicenseFont = "Driving license font-side";
+  static const String drivingLicenseBack = "Driving license back-side";
+  static const String documentPickerNot = "Attach a clear image to avoid rejection";
+  static const String city = "City name";
+}
